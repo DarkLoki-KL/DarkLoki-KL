@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DarkLoki-KL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Loki.
+- 👀 I’m interested in java dev.
+- 🌱 I’m currently learning programing fundamentals, AI.
+- 💞️ I’m looking to collaborate on anything that i can able.
+- 📫 How to reach me darklokisonofodin@gmail.com
 
 <!---
 DarkLoki-KL/DarkLoki-KL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
